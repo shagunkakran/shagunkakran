@@ -28,7 +28,7 @@
 
 Following a rigorous path in **Computer Science & Engineering**, I love solving complex problems and turning logic into code.
 <br/>
-🔭 working on **Data Structures & Algorithms**
+🔭 Working on **Data Structures & Algorithms**
 <br/>
 🌱 Learning **System Design & Computer Networks**
 
