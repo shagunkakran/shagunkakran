@@ -28,16 +28,16 @@
 
 Following a rigorous path in **Computer Science & Engineering**, I love solving complex problems and turning logic into code.
 <br/>
-🔭 I’m currently working on **Data Structures & Algorithms**
+🔭 working on **Data Structures & Algorithms**
 <br/>
-🌱 I’m currently learning **System Design & Computer Networks**
+🌱 Learning **System Design & Computer Networks**
 
 <br/>
 
 ---
 
 
-<h3>🛠️ Languages & Tools</h3>
+<h3>◦ 🛠️ Languages & Tools ◦</h3>
 <img src="https://skillicons.dev/icons?i=java,python,cpp,mysql,react,nodejs,git,vscode&theme=dark&perline=8" />
 
 <br/>
